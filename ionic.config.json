@@ -1,0 +1,7 @@
+{
+  "name": "ionCapChessPedia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
